@@ -1,4 +1,4 @@
-# Hi, I'm Edward 👋
+# Hi, I'm Edward
 
 **Full-stack solution architect and former CTO.** I design and build production SaaS platforms end to end, from the data model and access control to the UI, integrations and deployment.
 
